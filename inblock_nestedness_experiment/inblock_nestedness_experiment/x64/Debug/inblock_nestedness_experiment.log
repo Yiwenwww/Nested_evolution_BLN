@@ -1,0 +1,15 @@
+﻿  inblock_nestedness_experiment.cpp
+C:\Users\wyw25\thesis\inblock_nestedness_experiment\inblock_nestedness_experiment\inblock_nestedness_experiment.cpp(44,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wyw25\thesis\inblock_nestedness_experiment\inblock_nestedness_experiment\inblock_nestedness_experiment.cpp(85,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\wyw25\thesis\inblock_nestedness_experiment\inblock_nestedness_experiment\inblock_nestedness_experiment.cpp(169,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wyw25\thesis\inblock_nestedness_experiment\inblock_nestedness_experiment\inblock_nestedness_experiment.cpp(170,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wyw25\thesis\inblock_nestedness_experiment\inblock_nestedness_experiment\inblock_nestedness_experiment.cpp(235,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\wyw25\thesis\inblock_nestedness_experiment\inblock_nestedness_experiment\inblock_nestedness_experiment.cpp(287,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wyw25\thesis\inblock_nestedness_experiment\inblock_nestedness_experiment\inblock_nestedness_experiment.cpp(336,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wyw25\thesis\inblock_nestedness_experiment\inblock_nestedness_experiment\inblock_nestedness_experiment.cpp(360,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wyw25\thesis\inblock_nestedness_experiment\inblock_nestedness_experiment\inblock_nestedness_experiment.cpp(364,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wyw25\thesis\inblock_nestedness_experiment\inblock_nestedness_experiment\inblock_nestedness_experiment.cpp(469,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wyw25\thesis\inblock_nestedness_experiment\inblock_nestedness_experiment\inblock_nestedness_experiment.cpp(660,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wyw25\thesis\inblock_nestedness_experiment\inblock_nestedness_experiment\inblock_nestedness_experiment.cpp(1051,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wyw25\thesis\inblock_nestedness_experiment\inblock_nestedness_experiment\inblock_nestedness_experiment.cpp(1052,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  inblock_nestedness_experiment.vcxproj -> C:\Users\wyw25\thesis\inblock_nestedness_experiment\x64\Debug\inblock_nestedness_experiment.exe
